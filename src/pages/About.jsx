@@ -144,7 +144,7 @@ const About = () => {
           Follow us on social media to stay updated with the latest from Karnataka
         </p>
         <a
-          href="https://instagram.com"
+          href="https://www.instagram.com/mr_sharma_045?igsh=MXByMjVtc2g4aWE4OQ%3D%3D"
           target="_blank"
           rel="noopener noreferrer"
           className="btn-primary inline-flex items-center"

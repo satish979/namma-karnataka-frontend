@@ -248,7 +248,7 @@ const Contact = () => {
                 <div>
                   <h3 className="font-semibold text-gray-900 mb-1">Instagram</h3>
                   <a
-                    href="https://instagram.com"
+                    href="https://www.instagram.com/mr_sharma_045?igsh=MXByMjVtc2g4aWE4OQ%3D%3D"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-primary-600 hover:text-primary-700 text-sm"
